@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zigankamaria.words",
+        "sha256_cert_fingerprints": ["12:B3:42:0F:54:1D:4E:B0:B0:FD:05:5D:31:B8:00:64:4C:40:61:C6:0D:AB:56:ED:CB:E3:00:5E:45:DF:D6:76"]
+      }
+    }]
